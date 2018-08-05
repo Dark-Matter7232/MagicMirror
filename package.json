@@ -1,6 +1,6 @@
 {
-  "name": "magicmirror",
-  "version": "2.4.1",
+  "name": "Smartmirror",
+  "version": "0.1",
   "description": "The open source modular smart mirror platform.",
   "main": "js/electron.js",
   "scripts": {
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MichMich/MagicMirror.git"
+    "url": "git+https://github.com/Dark-Matter7232/MagicMirror.git"
   },
   "keywords": [
     "magic mirror",
@@ -24,7 +24,7 @@
     "mirror UI",
     "modular"
   ],
-  "author": "Michael Teeuw",
+  "author": "AnuragRau",
   "contributors": [
     "https://github.com/MichMich/MagicMirror/graphs/contributors"
   ],
